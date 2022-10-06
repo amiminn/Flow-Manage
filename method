@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T22:26:45.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.0" etag="QONHk9W-6n_ZblUVuOf8" type="github"><diagram id="hyq6LJdw9I8pyphOW2tQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-06T22:32:32.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mRf--jskzUVxrEEMUmcn" version="20.4.0" type="github">
+  <diagram id="hyq6LJdw9I8pyphOW2tQ" name="Halaman-1">
+    <mxGraphModel dx="1346" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="xxqUQsf_IFTTR2chUfv7-1" target="xxqUQsf_IFTTR2chUfv7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-3" value="Studi Lapangan" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="295" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="xxqUQsf_IFTTR2chUfv7-4" target="xxqUQsf_IFTTR2chUfv7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-4" value="Rumusan Masalah" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="295" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="xxqUQsf_IFTTR2chUfv7-5" target="xxqUQsf_IFTTR2chUfv7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-5" value="Studi Literatur" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="xxqUQsf_IFTTR2chUfv7-8" target="xxqUQsf_IFTTR2chUfv7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-8" value="Pengumpulan Data dan&lt;br&gt;Rancangan Awal&lt;br&gt;" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="xxqUQsf_IFTTR2chUfv7-10" target="xxqUQsf_IFTTR2chUfv7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-10" value="Implementasi&lt;br&gt;Rancangan UI" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="xxqUQsf_IFTTR2chUfv7-12" target="xxqUQsf_IFTTR2chUfv7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-12" value="Testing dan Deployment" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xxqUQsf_IFTTR2chUfv7-15" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T04:20:18.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1gjfwoG4LAQWV3kNMVQ3" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-14T05:28:27.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QpSF0yr12U_B1HbokklA" version="20.4.0" type="github" pages="2">
   <diagram id="y0goHkv_3NmY_lVdKL8N" name="sisi front">
-    <mxGraphModel dx="1157" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
         <mxCell id="5UGUrDGQimmEhuRq4yo_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="_weXA9B8hytX0h8vP_cF-27" target="5UGUrDGQimmEhuRq4yo_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5UGUrDGQimmEhuRq4yo_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="_weXA9B8hytX0h8vP_cF-27" target="5UGUrDGQimmEhuRq4yo_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_weXA9B8hytX0h8vP_cF-27" value="Login (User)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="540" width="120" height="30" as="geometry" />
         </mxCell>
@@ -161,7 +164,7 @@
           <mxGeometry x="665" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5UGUrDGQimmEhuRq4yo_-12" value="logout" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="665" y="830" width="120" height="30" as="geometry" />
+          <mxGeometry x="665" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5UGUrDGQimmEhuRq4yo_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="5UGUrDGQimmEhuRq4yo_-14" target="5UGUrDGQimmEhuRq4yo_-20">
           <mxGeometry relative="1" as="geometry" />
@@ -190,7 +193,7 @@
           <mxGeometry x="465" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5UGUrDGQimmEhuRq4yo_-15" value="ubah harga SPP" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="575" y="740" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="930" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5UGUrDGQimmEhuRq4yo_-20" value="ubah data(pass) user" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="500" y="820" width="130" height="40" as="geometry" />
@@ -200,6 +203,9 @@
         </mxCell>
         <mxCell id="5UGUrDGQimmEhuRq4yo_-25" value="Update Kenaikan kelas si User" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="220" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5UGUrDGQimmEhuRq4yo_-27" value="kelas user" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

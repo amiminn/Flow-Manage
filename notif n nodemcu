@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T22:37:07.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LVKnTn7LBCvDDIK9iW6W" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T01:17:20.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="O1_HpVPoHiBTh5LQtm18" version="20.4.0" type="github" pages="2">
   <diagram id="07CZ288kSo1llmo6YAmc" name="Halaman-1">
     <mxGraphModel dx="897" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,55 @@
         </mxCell>
         <mxCell id="CaYOMHIVIIB4J4YRPrTj-44" value="ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="490" y="855" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UMnzSWjLOM8WEWQ17_IP" name="Halaman-2">
+    <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="M6xVsPpSnWXSC-4PrMPN-3" target="M6xVsPpSnWXSC-4PrMPN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-3" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="M6xVsPpSnWXSC-4PrMPN-4" target="M6xVsPpSnWXSC-4PrMPN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-4" value="Rumusan masalah" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="M6xVsPpSnWXSC-4PrMPN-6" target="M6xVsPpSnWXSC-4PrMPN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-6" value="Studi Literatur" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="M6xVsPpSnWXSC-4PrMPN-7" target="M6xVsPpSnWXSC-4PrMPN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-7" value="Pengumpulan Data dan Rancangan Awal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="299" y="320" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="M6xVsPpSnWXSC-4PrMPN-8" target="M6xVsPpSnWXSC-4PrMPN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-8" value="Implementasi rancangan UI" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="319" y="400" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="M6xVsPpSnWXSC-4PrMPN-9" target="M6xVsPpSnWXSC-4PrMPN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-9" value="Testing dan Deploy" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="319" y="490" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M6xVsPpSnWXSC-4PrMPN-10" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="354" y="584.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

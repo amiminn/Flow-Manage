@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T02:09:57.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OLVsVgg7U6EPtB8wUINA" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-18T02:15:26.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xNDB9qzdrox_Az13YWNk" version="20.4.0" type="github" pages="3">
   <diagram id="y0goHkv_3NmY_lVdKL8N" name="sisi front">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -154,6 +154,12 @@
         <mxCell id="5UGUrDGQimmEhuRq4yo_-27" value="kelas user" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="670" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BKwzlYz8vE822HGKFE4O-1" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BKwzlYz8vE822HGKFE4O-2" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry y="520" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -237,6 +243,9 @@
         </mxCell>
         <mxCell id="3otrTCJUvxuvdB54TTS3-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;tambah user (pengurus: finance / coach)&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SmaBBSLtEuk6xfcfMo02-2" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
